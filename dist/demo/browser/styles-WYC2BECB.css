@@ -1,0 +1,1 @@
+.grid-container{display:grid;grid-template-columns:auto auto auto auto auto auto auto auto auto auto;column-gap:0px;width:200px}.item{width:20px;height:20px;border:1px solid black}.live-cell{background-color:#00f}
